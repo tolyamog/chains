@@ -1,0 +1,22 @@
+{
+  "name": "zkSync alpha testnet",
+  "chain": "zkSync alpha testnet",
+  "icon": "zkSync alpha testnet",
+  "rpc": ["https://zksync2-testnet.zksync.dev"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://v2-docs.zksync.io",
+  "shortName": "eth",
+  "chainId": 280,
+  "networkId": 280,
+  },
+  "explorers": [{
+    "name": "zksync2-testnet.zkscan",
+    "url": "https://zksync2-testnet.zkscan.io",
+    "standard": "EIP3091"
+  }]
+}
